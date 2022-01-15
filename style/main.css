@@ -46,7 +46,7 @@ header nav a:hover {
 
     
 
-    height: 400px;
+    height: 450px; 
     background-size: cover;
 
     display: flex;
@@ -58,12 +58,12 @@ header nav a:hover {
 
 
 .filmes-principal .descricao{
-    margin-top: 10px;
+    margin-top: 10px; /*espaço entre a descrição e titulo*/
     margin-bottom: 40px;
 }
 
 .filmes-principal .titulo{
-    margin-top: 15%;
+    margin-top: 15%; /*espaço entre titulo e o topo*/
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
